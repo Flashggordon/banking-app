@@ -9,7 +9,7 @@ class Program
     {
     
         BankAccount account = new BankAccount("George", 60345784, 100);
-        Console.WriteLine("Account name: " + account.Name + "Account Number: " account.);
+        Console.WriteLine("Account name: " + account.Name + "Account Number: " account.AccountNumber);
     }
 }
 
