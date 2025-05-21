@@ -1,0 +1,14 @@
+/Users/georgegordon/repos/banking-app/BankPratice/bin/Debug/net9.0/BankPratice
+/Users/georgegordon/repos/banking-app/BankPratice/bin/Debug/net9.0/BankPratice.deps.json
+/Users/georgegordon/repos/banking-app/BankPratice/bin/Debug/net9.0/BankPratice.runtimeconfig.json
+/Users/georgegordon/repos/banking-app/BankPratice/bin/Debug/net9.0/BankPratice.dll
+/Users/georgegordon/repos/banking-app/BankPratice/bin/Debug/net9.0/BankPratice.pdb
+/Users/georgegordon/repos/banking-app/BankPratice/obj/Debug/net9.0/BankPratice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/georgegordon/repos/banking-app/BankPratice/obj/Debug/net9.0/BankPratice.AssemblyInfoInputs.cache
+/Users/georgegordon/repos/banking-app/BankPratice/obj/Debug/net9.0/BankPratice.AssemblyInfo.cs
+/Users/georgegordon/repos/banking-app/BankPratice/obj/Debug/net9.0/BankPratice.csproj.CoreCompileInputs.cache
+/Users/georgegordon/repos/banking-app/BankPratice/obj/Debug/net9.0/BankPratice.dll
+/Users/georgegordon/repos/banking-app/BankPratice/obj/Debug/net9.0/refint/BankPratice.dll
+/Users/georgegordon/repos/banking-app/BankPratice/obj/Debug/net9.0/BankPratice.pdb
+/Users/georgegordon/repos/banking-app/BankPratice/obj/Debug/net9.0/BankPratice.genruntimeconfig.cache
+/Users/georgegordon/repos/banking-app/BankPratice/obj/Debug/net9.0/ref/BankPratice.dll
